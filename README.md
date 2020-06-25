@@ -8,4 +8,5 @@ Day5: API & JSON
 Day6: API Header  
 Day8: Static Browser Scraping Strategy  
 Day9: Image Download  
-Day11: Regular expression  
+Day11: Regular Expression  
+Day12: Ettoday Practice  
