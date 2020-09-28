@@ -10,3 +10,4 @@ Day8: Static Browser Scraping Strategy
 Day9: Image Download  
 Day11: Regular Expression  
 Day12: Ettoday Practice  
+Day13: PTT Practice  
