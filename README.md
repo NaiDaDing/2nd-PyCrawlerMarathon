@@ -14,3 +14,5 @@ Day13: PTT practice
 Day14: Yahoo! Movie practice  
 Day15: Exchange rate practice  
 Day16: Wiki practice  
+Day17: AJAX  
+Day18: Browser developer tools  
