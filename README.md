@@ -17,3 +17,5 @@ Day16: Wiki practice
 Day17: AJAX  
 Day18: Browser developer tools  
 Day19: Selenium basic  
+Day20: API simulation  
+Day21: Ettoday dynamic scraping  
