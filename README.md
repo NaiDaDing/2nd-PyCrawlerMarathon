@@ -19,3 +19,6 @@ Day18: Browser developer tools
 Day19: Selenium basic  
 Day20: API simulation  
 Day21: Ettoday dynamic scraping  
+Day22: Hahow dynamic scraping  
+Day23: Ettoday dynamic scraping 2  
+Day24: 104 dynamic scraping  
